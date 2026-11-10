@@ -7,7 +7,7 @@
 
 **[🚀 Live App](https://lunar-laureate.vercel.app)** · **[📦 Repository](https://github.com/adnan-sami-dev/Lunar-Laureate-A-Video-Conferencing-App-for-Tutors)**
 
-**Stack:** Next.js · TypeScript · Stream Video SDK · Clerk · Tailwind CSS · PostgreSQL
+**Stack:** Next.js · TypeScript · Stream Video SDK · Clerk · Tailwind CSS
 
 ---
 
