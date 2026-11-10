@@ -1,6 +1,7 @@
 # 🌙 Lunar Laureate
 
-<img width="1397" height="958" alt="Lunar Laureate screenshot" src="https://github.com/user-attachments/assets/6e4e2c34-905d-4a07-997f-707089280491" />
+<img width="1387" height="957" alt="image" src="https://github.com/user-attachments/assets/5574cfae-c09d-49e1-afca-ba3e822cd3dc" />
+
 
 > A real-time video classroom for tutors and students: schedule a class, invite students, and let the room open itself right on time.
 
