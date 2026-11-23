@@ -5,7 +5,7 @@
 
 > A real-time video classroom for tutors and students: schedule a class, invite students, and let the room open itself right on time.
 
-**[🚀 Live App](https://lunar-laureate.vercel.app)** · **[📦 Repository](https://github.com/adnan-sami-dev/Lunar-Laureate-A-Video-Conferencing-App-for-Tutors)**
+[**[🚀 Live App](https://lunar-laureate.vercel.app)**](https://lunar-laureatte.vercel.app/sign-in)
 
 **Stack:** Next.js · TypeScript · Stream Video SDK · Clerk · Tailwind CSS
 
