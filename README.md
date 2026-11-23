@@ -5,7 +5,7 @@
 
 > A real-time video classroom for tutors and students: schedule a class, invite students, and let the room open itself right on time.
 
-[🚀 Live App](https://lunar-laureate.vercel.app)
+[🚀 Live App](https://lunar-laureatte.vercel.app)
 
 **Stack:** Next.js · TypeScript · Stream Video SDK · Clerk · Tailwind CSS
 
